@@ -1,5 +1,5 @@
 <h1 align="center">
-  🛍️ CSS Gerador com IA ⚡️
+  CSS Gerador com IA ⚡️
 </h1>
 
 <p align="center">
@@ -34,10 +34,12 @@
 
 ## :house: Sobre o Projeto
 
-O **CSS Gerador com IA** foi desenvolvido durante as aulas iniciais do DevClub, com orientação de Rodolfo Mori.
-
+<p align="justify">
+O <strong>CSS Gerador com IA</strong> foi desenvolvido durante as aulas iniciais do DevClub, com orientação de Rodolfo Mori.
+</p>
+<p align="justify">
 O projeto consiste em uma interface interativa capaz de gerar código CSS a partir de descrições em texto, exibindo o resultado visual em tempo real. A proposta é simular uma experiência moderna de uso de inteligência artificial aplicada ao desenvolvimento front-end.
-
+</p>
 Foco do projeto:
 
 - Prática de HTML, CSS e Javascript;
