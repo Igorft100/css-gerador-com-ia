@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="http://127.0.0.1:5500/index.html" target="_blank">🚀 Ver Projeto</a>
+  <a href="https://igorft100.github.io/css-gerador-com-ia/" target="_blank">🚀 Ver Projeto</a>
 </p>
 
 <br>
@@ -66,7 +66,7 @@ Foco do projeto:
 Para executar o projeto e começar a se divertir, basta abrir o arquivo abaixo no navegador:
 
 <p align="center">
-  <a href="http://127.0.0.1:5500/index.html" target="_blank">
+  <a href="https://igorft100.github.io/css-gerador-com-ia/" target="_blank">
     🚀 Ver página
   </a>
 </p>
